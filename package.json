@@ -1,0 +1,19 @@
+{
+  "name": "mm88-project1",
+  "theme": "syntax",
+  "version": "1.0.0",
+  "description": "ทางเข้า MM88BET ทางเข้า MM88MI สมัคร mm88",
+  "keywords": [
+    "mm88",
+    "ทางเข้า MM88",
+    "wwwmm88",
+    "www.mm88",
+    "mm88mi",
+    "สมัคร mm88"
+  ],
+  "repository": "https://github.com/zeancode/mm88bet.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
