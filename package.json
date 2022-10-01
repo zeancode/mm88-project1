@@ -1,16 +1,17 @@
 {
-  "name": "mm88-baccarat",
+  "name": "mm88-register",
   "theme": "syntax",
-  "version": "1.2.2",
-  "description": "บาคาราร่า MM88BET บาคาราร่า MM88MI สมัคร mm88",
+  "version": "1.2.3",
+  "description": "สมัครสมาชิก MM88BET สมัครสมาชิก MM88MI สมัคร mm88",
   "keywords": [
     "mm88",
-    "MM88 บาคาราร่า",
+    "MM88 สมัครสมาชิก",
     "wwwmm88",
     "www.mm88",
     "mm88mi",
-    "mm88บาคาราร่า",
-    "สมัคร mm88"
+    "mm88สมัครสมาชิก",
+    "สมัคร mm88",
+    "สมัครสมาชิก"
   ],
   "repository": "https://github.com/zeancode/mm88-project1.git",
   "license": "MIT",
