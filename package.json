@@ -1,15 +1,12 @@
 {
   "name": "MM88Rich-as9d8sa89dzx98c79zx8c8zx9czx798c",
   "theme": "syntax",
-  "version": "1.36.2",
+  "version": "1.36.3",
   "description": "MM88Rich บา คา ร่า จุดหมายของเกมเป็นการได้รับคะแนนจากการทายใจผลของไพ่ ผู้เล่นที่มีคะแนนสูงที่สุด",
   "keywords": [
-    "mm88",
-    "MM88 บา คา ร่า",
     "MM88Rich บา คา ร่า",
-    "บา คา ร่า",
-    "mm88mi",
-    "mm88บา คา ร่า"
+    "MM88Rich",
+    "บา คา ร่า"
   ],
   "repository": "https://github.com/zeancode/mm88-project1.git",
   "license": "MIT",
